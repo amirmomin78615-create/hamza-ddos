@@ -1,1 +1,3 @@
 pyTelegramBotAPI
+chmod +x install.sh && ./install.sh
+python drx.py
